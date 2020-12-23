@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BT-DatVeFlim-React/static/css/main.1dbbbc25.chunk.css",
+    "main.js": "/BT-DatVeFlim-React/static/js/main.afb9cf6c.chunk.js",
+    "main.js.map": "/BT-DatVeFlim-React/static/js/main.afb9cf6c.chunk.js.map",
+    "runtime-main.js": "/BT-DatVeFlim-React/static/js/runtime-main.4d34486b.js",
+    "runtime-main.js.map": "/BT-DatVeFlim-React/static/js/runtime-main.4d34486b.js.map",
+    "static/js/2.5a469a86.chunk.js": "/BT-DatVeFlim-React/static/js/2.5a469a86.chunk.js",
+    "static/js/2.5a469a86.chunk.js.map": "/BT-DatVeFlim-React/static/js/2.5a469a86.chunk.js.map",
+    "static/js/3.90b9abee.chunk.js": "/BT-DatVeFlim-React/static/js/3.90b9abee.chunk.js",
+    "static/js/3.90b9abee.chunk.js.map": "/BT-DatVeFlim-React/static/js/3.90b9abee.chunk.js.map",
+    "index.html": "/BT-DatVeFlim-React/index.html",
+    "static/css/main.1dbbbc25.chunk.css.map": "/BT-DatVeFlim-React/static/css/main.1dbbbc25.chunk.css.map",
+    "static/js/2.5a469a86.chunk.js.LICENSE.txt": "/BT-DatVeFlim-React/static/js/2.5a469a86.chunk.js.LICENSE.txt",
+    "static/media/BaiTapBookingTicket.css": "/BT-DatVeFlim-React/static/media/Pony.99ddd1e5.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d34486b.js",
+    "static/js/2.5a469a86.chunk.js",
+    "static/css/main.1dbbbc25.chunk.css",
+    "static/js/main.afb9cf6c.chunk.js"
+  ]
+}
